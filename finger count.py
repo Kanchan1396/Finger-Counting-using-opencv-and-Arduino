@@ -1,6 +1,6 @@
 import cv2
 import mediapipe as mp
-#import arduinotest as ar
+import Pyfirmata_and_Arduino as ar
 import numpy as np
 
 mp_drawing = mp.solutions.drawing_utils
